@@ -11,10 +11,11 @@ This is the first project developed in the Ignite Course by Rocketseat to be int
 - TypeScript
 - CSS Modules
 - Responsivity
-- Forms and Form`s Validation
+- Forms and Form's Validation
 
 ## Functionalities
 - Add a comment
 - Delete a comment
 
 [Ignite Feed Deploy](https://vitorlinsbinski.github.io/ignite-feed/) 
+<img src = "./src/assets/screenshot_project.png"></img>
