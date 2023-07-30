@@ -18,4 +18,4 @@ This is the first project developed in the Ignite Course by Rocketseat to be int
 - Delete a comment
 
 [Ignite Feed Deploy](https://vitorlinsbinski.github.io/ignite-feed/) 
-<img src = "./src/assets/screenshot_project.png"></img>
+<img src = "./src/assets/screencapture-vitorlinsbinski-github-io-ignite-feed-2023-07-30-15_07_11.png"></img>
