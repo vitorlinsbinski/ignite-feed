@@ -1,8 +1,8 @@
-# ignite-feed
+# <h1 align="center">Ignite Feedr</h1>
 
 This is the first project developed in the Ignite Course by Rocketseat to be introduced in ReactJS with TypeScript.
 
-## Concepts introduced
+## 🚀 Concepts introduced
 - States
 - State Immutability
 - Lists and Keys in ReactJS
@@ -13,7 +13,7 @@ This is the first project developed in the Ignite Course by Rocketseat to be int
 - Responsivity
 - Forms and Form's Validation
 
-## Functionalities
+## 💻 Functionalities
 - Add a comment
 - Delete a comment
 
