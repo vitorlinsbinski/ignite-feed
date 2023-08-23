@@ -1,4 +1,4 @@
-# <h1 align="center">Ignite Feedr</h1>
+# <h1 align="center">Ignite Feed</h1>
 
 This is the first project developed in the Ignite Course by Rocketseat to be introduced in ReactJS with TypeScript.
 
